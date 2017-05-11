@@ -28,7 +28,6 @@ int main ()
 	cin>>scelta;
 	}
 	while (scelta == 1);
-	cout<<"Media: "<<m << endl;
 	system ("PAUSE");
 	return 0;
 }
